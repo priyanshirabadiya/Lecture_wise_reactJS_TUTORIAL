@@ -5,7 +5,7 @@ function Tablesec() {
     console.log(data);
 
     useEffect(()=>{
-        setData(Data)
+        setData(Data);
     },[])
 
     return (
