@@ -1,3 +1,11 @@
+to create react app use command:
+
+npx create-react-app appname
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

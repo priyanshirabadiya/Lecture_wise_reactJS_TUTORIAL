@@ -51,10 +51,3 @@ export default class Classcompo extends Component {
     )
   }
 }
-
-
-
-
-
-
-

@@ -1,3 +1,5 @@
+// use short cut rfc or rafc etc..
+
 import React from 'react'
 
 function Intro(){
