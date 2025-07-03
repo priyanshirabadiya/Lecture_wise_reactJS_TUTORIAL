@@ -26,7 +26,7 @@ function App() {
       <div data-testid={"text2"}>
         <Input labelText="Text 2" onChange={handleTextChange2} />
       </div>
-      <div>Appende name is :</div>
+      <div>Appened name is :</div>
       <div>{text1}{text2}</div>
     </div>
   );
